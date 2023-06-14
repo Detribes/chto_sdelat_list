@@ -42,7 +42,7 @@ class _ListItemState extends State<ListItem> {
               'DELETE',
               style: TextStyle(
                 color: Colors.redAccent,
-                fontFamily: 'Lato',
+                fontFamily: 'JetBrains',
                 fontSize: 16,
               ),
             ),

@@ -24,7 +24,7 @@ class List extends StatelessWidget {
             children: <Widget>[
               Container(
                 height: constraints.maxHeight * 0.5,
-                child: Image.asset('assets/images/waiting.png',
+                child: Image.asset('utils/images/waiting.png',
                     fit: BoxFit.cover),
               ),
               SizedBox(
